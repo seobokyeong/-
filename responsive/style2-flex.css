@@ -8,16 +8,16 @@
   width: 98%;
   max-width: 1160px;
   margin: 0 auto;
-  overflow: hidden;
   display: flex;
   justify-content: space-between;
+  overflow: hidden;
   flex-wrap: wrap;
 }
 
 .item {
   background: #ccc;
   height: 200px;
-  margin-right: 2%;
+  width: 32%;
   margin-bottom: 16px;
 }
 
